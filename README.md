@@ -1,12 +1,13 @@
 # Project04-Platformer
 
-# Project Name
-Context and date
+# Excercise 04a
+Animation state machine! 20 March 2024
 
-Description
+Practice using cute dinosaur sprites! 
 
 ## Implementation
-Which features you included.
+Arks Dinosaur sprites!
+https://arks.itch.io/dino-characters
 
 ## References
 
@@ -15,5 +16,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+Will continue with development of Project 04.
 
 ## Created by
+Aiko Ileleji
